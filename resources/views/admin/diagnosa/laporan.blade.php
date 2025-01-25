@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Laporan - Sistem pakar diagnosa kucing</title>
+    <title>Laporan - Sistem pakar diagnosa penyakit kulit kucing</title>
     <style>
         body {
             font-family: 'Times New Roman', Times, serif;
@@ -47,8 +47,6 @@
 <body>
     <div class="container" id="laporan">
         <h1 class="text-center mb-n-2 mt-n-3">{{ $judul }}</h1>
-        <h2 class="text-center mb-n-1">Dinas Kelautan Perikanan dan Peternakan</h2>
-        <p class="text-center">Jl. R.A Kartini Nomor 12 Kabupaten Batang</p>
         <hr>
         <h3 class="text-center">Periode :
             {{$awalPeriode}} s/d 

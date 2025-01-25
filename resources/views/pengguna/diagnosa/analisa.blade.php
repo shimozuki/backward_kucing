@@ -115,7 +115,7 @@
                 </div>
             </div>
             <div class="just-print">
-                <p>*) Hasil diagnosa dapat ditunjukan ke Puskeswan Batang</p></p>
+                <p>*) </p></p>
             </div>
         </div>
     </section>
