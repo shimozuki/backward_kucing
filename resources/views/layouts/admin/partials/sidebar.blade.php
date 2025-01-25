@@ -10,12 +10,12 @@
     <ul class="sidebar-menu">
         <li class="menu-header">Dashboard</li>
         <li class="nav-item dropdown">
-        <li class="nav-item dropdown{{ $title == 'Dashboard' ? ' active' : '' }}">
-            <a href="#" class="nav-link has-dropdown"><i class="fas fa-home"></i><span>Dashboard</span></a>
-            <ul class="dropdown-menu" style="display: none;">
+        <li class="{{ $title == 'Dashboard' ? ' active' : '' }}">
+            <a href="#" class="nav-link"><i class="fas fa-home"></i><span>Dashboard</span></a>
+            {{-- <ul class="dropdown-menu" style="display: none;">
                 <li><a class="nav-link" href="{{ route('admin.dashboard') }}">Dashboard Karyawan</a></li>
                 <li><a class="nav-link" href="{{ route('pengguna.dashboard') }}">Dashboard Pengguna</a></li>
-            </ul>
+            </ul> --}}
         </li>
         {{-- <li class="{{ $title == 'Dashboard' ? 'active' : ''}}">
       <a href="{{route('admin.dashboard')}}" class="nav-link"><i class="fas fa-home"></i><span>Dashboard</span></a>
