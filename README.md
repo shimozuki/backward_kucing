@@ -1,51 +1,53 @@
-# SIPAKU
-![image](https://user-images.githubusercontent.com/65581336/171142396-5febf5b6-743a-45d5-b195-acf2c22052a8.png)
-## Apa itu SIPAKU?
-SIPAKU adalah Sistem Pakar Diagnosa Penyakit Pada Kucing (Studi Kasus Dinas Kelautan Perikanan dan Peternakan KAB. BATANG ). SIPAKU dibangun menggunakan teknologi **PHP** dengan framework **laravel 8**. 
+<!--
+**shimozuki/shimozuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Metode perhitungan yang ada pada sistem pakar menggunakan metode ***certainty factor***. Alasan penggunaan menggunakan metode *certainty factor* karena terkadang ditemukan jawaban yang tidak memiliki kepastian penuh.
-Misalnya saja kita tidak dapat mengetahui sesering apa kucing mengalami mual-mual jika hanya terdapat pilihan jawaban "Ya"atau "Tidak". 
+<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-## Apa Saja Fitur yang Terdapat pada SIPAKU?
-**Sisi Pengguna**
-- Sistem dapat digunakan untuk mendiagnosa penyakit pada kucing (dengan syarat harus mengisi biodata pemeriksaan terlebih dahulu).
-- Sistem dapat digunakan untuk melihat info penyakit yang berguna untuk mengedukasi masyarakat mengenai penyakit pada kucing.
-- Sistem dapat digunakan untuk mengirim pesan kepada admin terkait kritik, saran, atau pertanyaan.
 
-**Sisi Admin**
-- Sistem dapat digunakan untuk mengelola data gejala
-- Sistem dapat digunakan untuk mengelola data penyakit
--Sistem dapat digunakan untuk mengelola data basis pengetahuan (hubungan antara suatu gejala dengan penyakit)
--Sistem dapat merekap data hasil diagnosa penyakit kucing
--Sistem dapat digunakan untuk membaca dan membalas pesan yang disampaikan oleh pengguna
 
-## Gambaran Sistem
-**Sisi Pengguna**
-![image](https://user-images.githubusercontent.com/65581336/171150488-f57621ca-d35b-4950-8a1e-5d4a7218e90c.png)
-------------
+<!-- # Hii  <img src="202af01200210c11a68ca2da7ef03321.gif" width="50px"> -->
+<h1 align="center">### Hi there, I'm Shimozuki <img src="202af01200210c11a68ca2da7ef03321.gif" width="50px">
+  
+![readmebox (1)](https://github-production-user-asset-6210df.s3.amazonaws.com/34431847/258598204-a4ad0e76-297d-4387-9322-09d83c233689.svg)</h1>
 
-![image](https://user-images.githubusercontent.com/65581336/171150591-916ed670-1a32-47d7-8aa1-f5b2ab3b7216.png)
-------------
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shimozuki&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=shimozuki)
+## I'm a Web and mobile developer from West Nusa Tenggara, Indonesia
+- 🌱 I’m currently learning Laravel & Flutter
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: play games
 
-![image](https://user-images.githubusercontent.com/65581336/171150644-2fa49396-01f4-4d51-b9e7-7717479294f1.png)
-------------
+### Connect with me:
 
-![image](https://user-images.githubusercontent.com/65581336/171150739-a29c8f07-d743-4e8b-8d2b-32b5ee184731.png)
-------------
+[<img align="left" alt="Ahmad Robbiul Iman | facebook" width="22px" src="https://cdn.cdnlogo.com/logos/f/91/facebook-icon.svg"/>][facebook]
+[<img align="left" alt="Ahmad Robbiul Iman | Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg"/>][instagram]
 
-**Sisi Admin**
-![image](https://user-images.githubusercontent.com/65581336/171151582-783ae4ac-3667-4237-90e7-cb7b25d4e13f.png)
-------------
+<br />
 
-![image](https://user-images.githubusercontent.com/65581336/171151102-242e09ac-e5d6-461e-88f6-6f8a867d1eb0.png)
-------------
+### Languages and Tools:
 
-![image](https://user-images.githubusercontent.com/65581336/171151242-15f4a52d-52b0-44a1-a5bd-f6b43fd15df3.png)
-------------
+<img align="left" alt="Pop!_OS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
+<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
-![image](https://user-images.githubusercontent.com/65581336/171151326-a4fe8efb-5608-4545-92f8-7dfe4239cb4d.png)
-------------
+<br /> <br/>
 
-![image](https://user-images.githubusercontent.com/65581336/171151435-1b0818a6-7058-43c7-9b33-432b7979eb94.png)
-------------
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=shimozuki&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 
+[facebook]: https://www.facebook.com/bi.raja.13/
+[instagram]: https://www.instagram.com/r.obbiul.013/
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=shimozuki&bg_color=30,5B5F97,FFC145&title_color=fff&text_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimozuki&bg_color=30,FF6B6C,833ab4&title_color=fff&text_color=fff&layout=compact" />
+</div>
+   
